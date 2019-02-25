@@ -107,7 +107,12 @@ continue o roteiro:</p>
 		<li value="1"/>
 <p align="justify" style="margin-bottom: 0cm; font-weight: normal; line-height: 100%">
 		<font size="3" style="font-size: 12pt">addSbtPlugin(&quot;com.typesafe.play&quot;
-		% &quot;sbt-plugin&quot; % &quot;2.6.20&quot;)</font></p>
+		% &quot;sbt-plugin&quot; % &quot;5.2.4&quot;)</font></p>
+		
+		<li value="1"/>
+<p align="justify" style="margin-bottom: 0cm; font-weight: normal; line-height: 100%">
+		<font size="3" style="font-size: 12pt">addSbtPlugin(&quot;com.typesafe.sbteclipse&quot;
+		% &quot;sbteclipse-plugin&quot; % &quot;2.6.20&quot;)</font></p>
 	</ol>
 	<li/>
 <p align="justify" style="margin-bottom: 0cm; font-weight: normal; line-height: 100%">
