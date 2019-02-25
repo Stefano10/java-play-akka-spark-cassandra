@@ -65,6 +65,10 @@ continue o roteiro:</p>
 	criar um keyspace e uma tabela com dados para teste:</font></p>
 	<ol>
 		<ol>
+			li/>
+<p align="justify" style="margin-bottom: 0cm; font-weight: normal; line-height: 100%">
+			<font size="3" style="font-size: 12pt">Para executar o Cassandra: sudo service cassandra start</font></p>
+			<li/>
 			<li/>
 <p align="justify" style="margin-bottom: 0cm; font-weight: normal; line-height: 100%">
 			<font size="3" style="font-size: 12pt">Para entrar no console
