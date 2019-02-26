@@ -123,7 +123,7 @@ continue o roteiro:</p>
 % &quot;2.9.6&quot;</font></p>
 <p align="justify" style="margin-left: 1.27cm; margin-bottom: 0cm; font-weight: normal; line-height: 100%">
 <font size="3" style="font-size: 12pt">libraryDependencies +=
-&quot;com.typesafe.akka&quot; %% &quot;akka-actor&quot; % &quot;2.5.18&quot;</font></p>
+&quot;com.typesafe.akka&quot; %% &quot;akka-actor&quot; % &quot;2.5.17&quot;</font></p>
 <p align="justify" style="margin-left: 1.27cm; margin-bottom: 0cm; font-weight: normal; line-height: 100%">
 <font size="3" style="font-size: 12pt">libraryDependencies +=
 &quot;org.apache.spark&quot; %% &quot;spark-core&quot; % &quot;2.4.0&quot;</font></p>
