@@ -172,6 +172,7 @@ continue o roteiro:</p>
 <p align="justify" style="margin-bottom: 0cm; font-weight: normal; line-height: 100%">
 		<font size="3" style="font-size: 12pt">import existing gradle
 		project no eclipse</font></p>
+		<font size="3" style="font-size: 12pt">precisei mudar versão do play no build.gradle e depois att sbt project: def playVersion = "2.6.20"</font></p>
 	</ol>
 	<li/>
 <p align="justify" style="margin-bottom: 0cm; font-weight: normal; line-height: 100%">
